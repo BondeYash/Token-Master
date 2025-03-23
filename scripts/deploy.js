@@ -28,12 +28,12 @@ async function main() {
       location: "Miami-Dade Arena - Miami, FL"
     },
     {
-      name: "ETH Tokyo",
+      name: "ETH India",
       cost: tokens(1),
       tickets: 125,
       date: "Jun 2",
       time: "1:00PM JST",
-      location: "Tokyo, Japan"
+      location: "Banglore ,India"
     },
     {
       name: "ETH Privacy Hackathon",
